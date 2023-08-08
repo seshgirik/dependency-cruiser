@@ -140,7 +140,7 @@
     "version": "npm-run-all build depcruise:graph:doc scm:stage"
   },
   "dependencies": {
-    "acorn": "8.8.2",
+    "acorn": "8.10.0",
     "acorn-jsx": "5.3.2",
     "acorn-jsx-walk": "2.0.0",
     "acorn-loose": "8.3.0",
